@@ -1,0 +1,9 @@
+[
+    {
+      "key": "sample-tool",
+      "label": "Sample Tool",
+      "manifestUrl": "https://SupportALM.github.io/sample-tool/manifest.json",
+      "description": "A demo tool loaded remotely via Module Federation.",
+      "icon": "https://SupportALM.github.io/sample-tool/icon.png"
+    }
+  ]
